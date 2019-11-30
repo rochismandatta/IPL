@@ -1,0 +1,991 @@
+#RGSharma
+
+RGSharma_bat <- data_bat[data_bat$BATSMEN== "RGSharma",] 
+RGSharma_bat <- col_add(RGSharma_bat,95)
+plot_add(RGSharma_bat)
+Predict(RGSharma_bat)
+
+
+#Elewis
+
+Elewis_bat <- data_bat[data_bat$BATSMEN== "Elewis",] 
+Elewis_bat <- col_add(Elewis_bat,95)
+plot_add(Elewis_bat)
+Predict(Elewis_bat)
+
+
+#IshanKishan
+
+IshanKishan_bat <- data_bat[data_bat$BATSMEN== "IshanKishan",] 
+IshanKishan_bat <- col_add(IshanKishan_bat,95)
+plot_add(IshanKishan_bat)
+Predict(IshanKishan_bat)
+
+
+#SAYadav
+
+SAYadav_bat <- data_bat[data_bat$BATSMEN== "SAYadav",] 
+SAYadav_bat <- col_add(SAYadav_bat,95)
+plot_add(SAYadav_bat)
+Predict(SAYadav_bat)
+
+
+#HHPandya
+
+HHPandya_bat <- data_bat[data_bat$BATSMEN== "HHPandya",] 
+HHPandya_bat <- col_add(HHPandya_bat,95)
+plot_add(HHPandya_bat)
+Predict(HHPandya_bat)
+
+
+#KHPandya
+
+KHPandya_bat <- data_bat[data_bat$BATSMEN== "KHPandya",] 
+KHPandya_bat <- col_add(KHPandya_bat,95)
+plot_add(KHPandya_bat)
+Predict(KHPandya_bat)
+
+
+#SRWatson
+
+SRWatson_bat <- data_bat[data_bat$BATSMEN== "SRWatson",] 
+SRWatson_bat <- col_add(SRWatson_bat,95)
+plot_add(SRWatson_bat)
+Predict(SRWatson_bat)
+
+
+#ATRayudu
+
+ATRayudu_bat <- data_bat[data_bat$BATSMEN== "ATRayudu",] 
+ATRayudu_bat <- col_add(ATRayudu_bat,95)
+plot_add(ATRayudu_bat)
+Predict(ATRayudu_bat)
+
+
+#SKRaina
+
+SKRaina_bat <- data_bat[data_bat$BATSMEN== "SKRaina",] 
+SKRaina_bat <- col_add(SKRaina_bat,95)
+plot_add(SKRaina_bat)
+Predict(SKRaina_bat)
+
+
+#KMJadhav
+
+KMJadhav_bat <- data_bat[data_bat$BATSMEN== "KMJadhav",] 
+KMJadhav_bat <- col_add(KMJadhav_bat,95)
+plot_add(KMJadhav_bat)
+Predict(KMJadhav_bat)
+
+
+#MSDhoni
+
+MSDhoni_bat <- data_bat[data_bat$BATSMEN== "MSDhoni",] 
+MSDhoni_bat <- col_add(MSDhoni_bat,95)
+plot_add(MSDhoni_bat)
+Predict(MSDhoni_bat)
+
+
+#RAJadeja
+
+RAJadeja_bat <- data_bat[data_bat$BATSMEN== "RAJadeja",] 
+RAJadeja_bat <- col_add(RAJadeja_bat,95)
+plot_add(RAJadeja_bat)
+Predict(RAJadeja_bat)
+
+
+#DJBravo
+
+DJBravo_bat <- data_bat[data_bat$BATSMEN== "DJBravo",] 
+DJBravo_bat <- col_add(DJBravo_bat,95)
+plot_add(DJBravo_bat)
+Predict(DJBravo_bat)
+
+
+#DLChahar
+
+DLChahar_bat <- data_bat[data_bat$BATSMEN== "DLChahar",] 
+DLChahar_bat <- col_add(DLChahar_bat,95)
+plot_add(DLChahar_bat)
+Predict(DLChahar_bat)
+
+
+#HarbhajanSingh
+
+HarbhajanSingh_bat <- data_bat[data_bat$BATSMEN== "HarbhajanSingh",] 
+HarbhajanSingh_bat <- col_add(HarbhajanSingh_bat,95)
+plot_add(HarbhajanSingh_bat)
+Predict(HarbhajanSingh_bat)
+
+
+#MAWood
+
+MAWood_bat <- data_bat[data_bat$BATSMEN== "MAWood",] 
+MAWood_bat <- col_add(MAWood_bat,95)
+plot_add(MAWood_bat)
+Predict(MAWood_bat)
+
+
+#ImranTahir
+
+ImranTahir_bat <- data_bat[data_bat$BATSMEN== "ImranTahir",] 
+ImranTahir_bat <- col_add(ImranTahir_bat,95)
+plot_add(ImranTahir_bat)
+Predict(ImranTahir_bat)
+
+
+#CMunro
+
+CMunro_bat <- data_bat[data_bat$BATSMEN== "CMunro",] 
+CMunro_bat <- col_add(CMunro_bat,95)
+plot_add(CMunro_bat)
+Predict(CMunro_bat)
+
+
+#GGambhir
+
+GGambhir_bat <- data_bat[data_bat$BATSMEN== "GGambhir",] 
+GGambhir_bat <- col_add(GGambhir_bat,95)
+plot_add(GGambhir_bat)
+Predict(GGambhir_bat)
+
+
+#SSIyer
+
+SSIyer_bat <- data_bat[data_bat$BATSMEN== "SSIyer",] 
+SSIyer_bat <- col_add(SSIyer_bat,95)
+plot_add(SSIyer_bat)
+Predict(SSIyer_bat)
+
+
+#VShankar
+
+VShankar_bat <- data_bat[data_bat$BATSMEN== "VShankar",] 
+VShankar_bat <- col_add(VShankar_bat,95)
+plot_add(VShankar_bat)
+Predict(VShankar_bat)
+
+
+#RRPant
+
+RRPant_bat <- data_bat[data_bat$BATSMEN== "RRPant",] 
+RRPant_bat <- col_add(RRPant_bat,95)
+plot_add(RRPant_bat)
+Predict(RRPant_bat)
+
+
+#RTewatia
+
+RTewatia_bat <- data_bat[data_bat$BATSMEN== "RTewatia",] 
+RTewatia_bat <- col_add(RTewatia_bat,95)
+plot_add(RTewatia_bat)
+Predict(RTewatia_bat)
+
+
+#CHMorris
+
+CHMorris_bat <- data_bat[data_bat$BATSMEN== "CHMorris",] 
+CHMorris_bat <- col_add(CHMorris_bat,95)
+plot_add(CHMorris_bat)
+Predict(CHMorris_bat)
+
+
+#DTChristian
+
+DTChristian_bat <- data_bat[data_bat$BATSMEN== "DTChristian",] 
+DTChristian_bat <- col_add(DTChristian_bat,95)
+plot_add(DTChristian_bat)
+Predict(DTChristian_bat)
+
+
+#KLRahul
+
+KLRahul_bat <- data_bat[data_bat$BATSMEN== "KLRahul",] 
+KLRahul_bat <- col_add(KLRahul_bat,95)
+plot_add(KLRahul_bat)
+Predict(KLRahul_bat)
+
+
+#MAAgarwal
+
+MAAgarwal_bat <- data_bat[data_bat$BATSMEN== "MAAgarwal",] 
+MAAgarwal_bat <- col_add(MAAgarwal_bat,95)
+plot_add(MAAgarwal_bat)
+Predict(MAAgarwal_bat)
+
+
+#YuvrajSingh
+
+YuvrajSingh_bat <- data_bat[data_bat$BATSMEN== "YuvrajSingh",] 
+YuvrajSingh_bat <- col_add(YuvrajSingh_bat,95)
+plot_add(YuvrajSingh_bat)
+Predict(YuvrajSingh_bat)
+
+
+#KKNair
+
+KKNair_bat <- data_bat[data_bat$BATSMEN== "KKNair",] 
+KKNair_bat <- col_add(KKNair_bat,95)
+plot_add(KKNair_bat)
+Predict(KKNair_bat)
+
+
+#DAMiller
+
+DAMiller_bat <- data_bat[data_bat$BATSMEN== "DAMiller",] 
+DAMiller_bat <- col_add(DAMiller_bat,95)
+plot_add(DAMiller_bat)
+Predict(DAMiller_bat)
+
+
+#MPStoinis
+
+MPStoinis_bat <- data_bat[data_bat$BATSMEN== "MPStoinis",] 
+MPStoinis_bat <- col_add(MPStoinis_bat,95)
+plot_add(MPStoinis_bat)
+Predict(MPStoinis_bat)
+
+
+#BBMcCullum
+
+BBMcCullum_bat <- data_bat[data_bat$BATSMEN== "BBMcCullum",] 
+BBMcCullum_bat <- col_add(BBMcCullum_bat,95)
+plot_add(BBMcCullum_bat)
+Predict(BBMcCullum_bat)
+
+
+#QdeKock
+
+QdeKock_bat <- data_bat[data_bat$BATSMEN== "QdeKock",] 
+QdeKock_bat <- col_add(QdeKock_bat,95)
+plot_add(QdeKock_bat)
+Predict(QdeKock_bat)
+
+
+#VKohli
+
+VKohli_bat <- data_bat[data_bat$BATSMEN== "VKohli",] 
+VKohli_bat <- col_add(VKohli_bat,95)
+plot_add(VKohli_bat)
+Predict(VKohli_bat)
+
+
+#ABdeVilliers
+
+ABdeVilliers_bat <- data_bat[data_bat$BATSMEN== "ABdeVilliers",] 
+ABdeVilliers_bat <- col_add(ABdeVilliers_bat,95)
+plot_add(ABdeVilliers_bat)
+Predict(ABdeVilliers_bat)
+
+
+#SNKhan
+
+SNKhan_bat <- data_bat[data_bat$BATSMEN== "SNKhan",] 
+SNKhan_bat <- col_add(SNKhan_bat,95)
+plot_add(SNKhan_bat)
+Predict(SNKhan_bat)
+
+
+#MandeepSingh
+
+MandeepSingh_bat <- data_bat[data_bat$BATSMEN== "MandeepSingh",] 
+MandeepSingh_bat <- col_add(MandeepSingh_bat,95)
+plot_add(MandeepSingh_bat)
+Predict(MandeepSingh_bat)
+
+
+#CRWoakes
+
+CRWoakes_bat <- data_bat[data_bat$BATSMEN== "CRWoakes",] 
+CRWoakes_bat <- col_add(CRWoakes_bat,95)
+plot_add(CRWoakes_bat)
+Predict(CRWoakes_bat)
+
+
+#SPNarine
+
+SPNarine_bat <- data_bat[data_bat$BATSMEN== "SPNarine",] 
+SPNarine_bat <- col_add(SPNarine_bat,95)
+plot_add(SPNarine_bat)
+Predict(SPNarine_bat)
+
+
+#CALynn
+
+CALynn_bat <- data_bat[data_bat$BATSMEN== "CALynn",] 
+CALynn_bat <- col_add(CALynn_bat,95)
+plot_add(CALynn_bat)
+Predict(CALynn_bat)
+
+
+#RVUthappa
+
+RVUthappa_bat <- data_bat[data_bat$BATSMEN== "RVUthappa",] 
+RVUthappa_bat <- col_add(RVUthappa_bat,95)
+plot_add(RVUthappa_bat)
+Predict(RVUthappa_bat)
+
+
+#NRana
+
+NRana_bat <- data_bat[data_bat$BATSMEN== "NRana",] 
+NRana_bat <- col_add(NRana_bat,95)
+plot_add(NRana_bat)
+Predict(NRana_bat)
+
+
+#KDKarthik
+
+KDKarthik_bat <- data_bat[data_bat$BATSMEN== "KDKarthik",] 
+KDKarthik_bat <- col_add(KDKarthik_bat,95)
+plot_add(KDKarthik_bat)
+Predict(KDKarthik_bat)
+
+
+#RKSingh
+
+RKSingh_bat <- data_bat[data_bat$BATSMEN== "RKSingh",] 
+RKSingh_bat <- col_add(RKSingh_bat,95)
+plot_add(RKSingh_bat)
+Predict(RKSingh_bat)
+
+
+#ADRussell
+
+ADRussell_bat <- data_bat[data_bat$BATSMEN== "ADRussell",] 
+ADRussell_bat <- col_add(ADRussell_bat,95)
+plot_add(ADRussell_bat)
+Predict(ADRussell_bat)
+
+
+#RVinayKumar
+
+RVinayKumar_bat <- data_bat[data_bat$BATSMEN== "RVinayKumar",] 
+RVinayKumar_bat <- col_add(RVinayKumar_bat,95)
+plot_add(RVinayKumar_bat)
+Predict(RVinayKumar_bat)
+
+
+#AMRahane
+
+AMRahane_bat <- data_bat[data_bat$BATSMEN== "AMRahane",] 
+AMRahane_bat <- col_add(AMRahane_bat,95)
+plot_add(AMRahane_bat)
+Predict(AMRahane_bat)
+
+
+#DJMShort
+
+DJMShort_bat <- data_bat[data_bat$BATSMEN== "DJMShort",] 
+DJMShort_bat <- col_add(DJMShort_bat,95)
+plot_add(DJMShort_bat)
+Predict(DJMShort_bat)
+
+
+#SVSamson
+
+SVSamson_bat <- data_bat[data_bat$BATSMEN== "SVSamson",] 
+SVSamson_bat <- col_add(SVSamson_bat,95)
+plot_add(SVSamson_bat)
+Predict(SVSamson_bat)
+
+
+#BAStokes
+
+BAStokes_bat <- data_bat[data_bat$BATSMEN== "BAStokes",] 
+BAStokes_bat <- col_add(BAStokes_bat,95)
+plot_add(BAStokes_bat)
+Predict(BAStokes_bat)
+
+
+#RATripathi
+
+RATripathi_bat <- data_bat[data_bat$BATSMEN== "RATripathi",] 
+RATripathi_bat <- col_add(RATripathi_bat,95)
+plot_add(RATripathi_bat)
+Predict(RATripathi_bat)
+
+
+#JCButtler
+
+JCButtler_bat <- data_bat[data_bat$BATSMEN== "JCButtler",] 
+JCButtler_bat <- col_add(JCButtler_bat,95)
+plot_add(JCButtler_bat)
+Predict(JCButtler_bat)
+
+
+#KGowtham
+
+KGowtham_bat <- data_bat[data_bat$BATSMEN== "KGowtham",] 
+KGowtham_bat <- col_add(KGowtham_bat,95)
+plot_add(KGowtham_bat)
+Predict(KGowtham_bat)
+
+
+#SGopal
+
+SGopal_bat <- data_bat[data_bat$BATSMEN== "SGopal",] 
+SGopal_bat <- col_add(SGopal_bat,95)
+plot_add(SGopal_bat)
+Predict(SGopal_bat)
+
+
+#DSKulkarni
+
+DSKulkarni_bat <- data_bat[data_bat$BATSMEN== "DSKulkarni",] 
+DSKulkarni_bat <- col_add(DSKulkarni_bat,95)
+plot_add(DSKulkarni_bat)
+Predict(DSKulkarni_bat)
+
+
+#JDUnadkat
+
+JDUnadkat_bat <- data_bat[data_bat$BATSMEN== "JDUnadkat",] 
+JDUnadkat_bat <- col_add(JDUnadkat_bat,95)
+plot_add(JDUnadkat_bat)
+Predict(JDUnadkat_bat)
+
+
+#BLaughlin
+
+BLaughlin_bat <- data_bat[data_bat$BATSMEN== "BLaughlin",] 
+BLaughlin_bat <- col_add(BLaughlin_bat,95)
+plot_add(BLaughlin_bat)
+Predict(BLaughlin_bat)
+
+
+#WPSaha
+
+WPSaha_bat <- data_bat[data_bat$BATSMEN== "WPSaha",] 
+WPSaha_bat <- col_add(WPSaha_bat,95)
+plot_add(WPSaha_bat)
+Predict(WPSaha_bat)
+
+
+#SDhawan
+
+SDhawan_bat <- data_bat[data_bat$BATSMEN== "SDhawan",] 
+SDhawan_bat <- col_add(SDhawan_bat,95)
+plot_add(SDhawan_bat)
+Predict(SDhawan_bat)
+
+
+#KSWilliamson
+
+KSWilliamson_bat <- data_bat[data_bat$BATSMEN== "KSWilliamson",] 
+KSWilliamson_bat <- col_add(KSWilliamson_bat,95)
+plot_add(KSWilliamson_bat)
+Predict(KSWilliamson_bat)
+
+
+#TKCurran
+
+TKCurran_bat <- data_bat[data_bat$BATSMEN== "TKCurran",] 
+TKCurran_bat <- col_add(TKCurran_bat,95)
+plot_add(TKCurran_bat)
+Predict(TKCurran_bat)
+
+
+#SWBillings
+
+SWBillings_bat <- data_bat[data_bat$BATSMEN== "SWBillings",] 
+SWBillings_bat <- col_add(SWBillings_bat,95)
+plot_add(SWBillings_bat)
+Predict(SWBillings_bat)
+
+
+#GJMaxwell
+
+GJMaxwell_bat <- data_bat[data_bat$BATSMEN== "GJMaxwell",] 
+GJMaxwell_bat <- col_add(GJMaxwell_bat,95)
+plot_add(GJMaxwell_bat)
+Predict(GJMaxwell_bat)
+
+
+#KAPollard
+
+KAPollard_bat <- data_bat[data_bat$BATSMEN== "KAPollard",] 
+KAPollard_bat <- col_add(KAPollard_bat,95)
+plot_add(KAPollard_bat)
+Predict(KAPollard_bat)
+
+
+#BCJCutting
+
+BCJCutting_bat <- data_bat[data_bat$BATSMEN== "BCJCutting",] 
+BCJCutting_bat <- col_add(BCJCutting_bat,95)
+plot_add(BCJCutting_bat)
+Predict(BCJCutting_bat)
+
+
+#PJSangwan
+
+PJSangwan_bat <- data_bat[data_bat$BATSMEN== "PJSangwan",] 
+PJSangwan_bat <- col_add(PJSangwan_bat,95)
+plot_add(PJSangwan_bat)
+Predict(PJSangwan_bat)
+
+
+#MMarkande
+
+MMarkande_bat <- data_bat[data_bat$BATSMEN== "MMarkande",] 
+MMarkande_bat <- col_add(MMarkande_bat,95)
+plot_add(MMarkande_bat)
+Predict(MMarkande_bat)
+
+
+#JJBumrah
+
+JJBumrah_bat <- data_bat[data_bat$BATSMEN== "JJBumrah",] 
+JJBumrah_bat <- col_add(JJBumrah_bat,95)
+plot_add(JJBumrah_bat)
+Predict(JJBumrah_bat)
+
+
+#MKPandey
+
+MKPandey_bat <- data_bat[data_bat$BATSMEN== "MKPandey",] 
+MKPandey_bat <- col_add(MKPandey_bat,95)
+plot_add(MKPandey_bat)
+Predict(MKPandey_bat)
+
+
+#ShakibAlHasan
+
+ShakibAlHasan_bat <- data_bat[data_bat$BATSMEN== "ShakibAlHasan",] 
+ShakibAlHasan_bat <- col_add(ShakibAlHasan_bat,95)
+plot_add(ShakibAlHasan_bat)
+Predict(ShakibAlHasan_bat)
+
+
+#DJHooda
+
+DJHooda_bat <- data_bat[data_bat$BATSMEN== "DJHooda",] 
+DJHooda_bat <- col_add(DJHooda_bat,95)
+plot_add(DJHooda_bat)
+Predict(DJHooda_bat)
+
+
+#YKPathan
+
+YKPathan_bat <- data_bat[data_bat$BATSMEN== "YKPathan",] 
+YKPathan_bat <- col_add(YKPathan_bat,95)
+plot_add(YKPathan_bat)
+Predict(YKPathan_bat)
+
+
+#RashidKhan
+
+RashidKhan_bat <- data_bat[data_bat$BATSMEN== "RashidKhan",] 
+RashidKhan_bat <- col_add(RashidKhan_bat,95)
+plot_add(RashidKhan_bat)
+Predict(RashidKhan_bat)
+
+
+#SKaul
+
+SKaul_bat <- data_bat[data_bat$BATSMEN== "SKaul",] 
+SKaul_bat <- col_add(SKaul_bat,95)
+plot_add(SKaul_bat)
+Predict(SKaul_bat)
+
+
+#SandeepSharma
+
+SandeepSharma_bat <- data_bat[data_bat$BATSMEN== "SandeepSharma",] 
+SandeepSharma_bat <- col_add(SandeepSharma_bat,95)
+plot_add(SandeepSharma_bat)
+Predict(SandeepSharma_bat)
+
+
+#BStanlake
+
+BStanlake_bat <- data_bat[data_bat$BATSMEN== "BStanlake",] 
+BStanlake_bat <- col_add(BStanlake_bat,95)
+plot_add(BStanlake_bat)
+Predict(BStanlake_bat)
+
+
+#AJFinch
+
+AJFinch_bat <- data_bat[data_bat$BATSMEN== "AJFinch",] 
+AJFinch_bat <- col_add(AJFinch_bat,95)
+plot_add(AJFinch_bat)
+Predict(AJFinch_bat)
+
+
+#ARPatel
+
+ARPatel_bat <- data_bat[data_bat$BATSMEN== "ARPatel",] 
+ARPatel_bat <- col_add(ARPatel_bat,95)
+plot_add(ARPatel_bat)
+Predict(ARPatel_bat)
+
+
+#RAshwin
+
+RAshwin_bat <- data_bat[data_bat$BATSMEN== "RAshwin",] 
+RAshwin_bat <- col_add(RAshwin_bat,95)
+plot_add(RAshwin_bat)
+Predict(RAshwin_bat)
+
+
+#AJTye
+
+AJTye_bat <- data_bat[data_bat$BATSMEN== "AJTye",] 
+AJTye_bat <- col_add(AJTye_bat,95)
+plot_add(AJTye_bat)
+Predict(AJTye_bat)
+
+
+#MMSharma
+
+MMSharma_bat <- data_bat[data_bat$BATSMEN== "MMSharma",] 
+MMSharma_bat <- col_add(MMSharma_bat,95)
+plot_add(MMSharma_bat)
+Predict(MMSharma_bat)
+
+
+#MujeebUrRahman
+
+MujeebUrRahman_bat <- data_bat[data_bat$BATSMEN== "MujeebUrRahman",] 
+MujeebUrRahman_bat <- col_add(MujeebUrRahman_bat,95)
+plot_add(MujeebUrRahman_bat)
+Predict(MujeebUrRahman_bat)
+
+
+#WashingtonSundar
+
+WashingtonSundar_bat <- data_bat[data_bat$BATSMEN== "WashingtonSundar",] 
+WashingtonSundar_bat <- col_add(WashingtonSundar_bat,95)
+plot_add(WashingtonSundar_bat)
+Predict(WashingtonSundar_bat)
+
+
+#ADananjaya
+
+ADananjaya_bat <- data_bat[data_bat$BATSMEN== "ADananjaya",] 
+ADananjaya_bat <- col_add(ADananjaya_bat,95)
+plot_add(ADananjaya_bat)
+Predict(ADananjaya_bat)
+
+
+#JJRoy
+
+JJRoy_bat <- data_bat[data_bat$BATSMEN== "JJRoy",] 
+JJRoy_bat <- col_add(JJRoy_bat,95)
+plot_add(JJRoy_bat)
+Predict(JJRoy_bat)
+
+
+#ShubmanGill
+
+ShubmanGill_bat <- data_bat[data_bat$BATSMEN== "ShubmanGill",] 
+ShubmanGill_bat <- col_add(ShubmanGill_bat,95)
+plot_add(ShubmanGill_bat)
+Predict(ShubmanGill_bat)
+
+
+#ShivamMavi
+
+ShivamMavi_bat <- data_bat[data_bat$BATSMEN== "ShivamMavi",] 
+ShivamMavi_bat <- col_add(ShivamMavi_bat,95)
+plot_add(ShivamMavi_bat)
+Predict(ShivamMavi_bat)
+
+
+#MGJohnson
+
+MGJohnson_bat <- data_bat[data_bat$BATSMEN== "MGJohnson",] 
+MGJohnson_bat <- col_add(MGJohnson_bat,95)
+plot_add(MGJohnson_bat)
+Predict(MGJohnson_bat)
+
+
+#PNegi
+
+PNegi_bat <- data_bat[data_bat$BATSMEN== "PNegi",] 
+PNegi_bat <- col_add(PNegi_bat,95)
+plot_add(PNegi_bat)
+Predict(PNegi_bat)
+
+
+#CHGayle
+
+CHGayle_bat <- data_bat[data_bat$BATSMEN== "CHGayle",] 
+CHGayle_bat <- col_add(CHGayle_bat,95)
+plot_add(CHGayle_bat)
+Predict(CHGayle_bat)
+
+
+#MVijay
+
+MVijay_bat <- data_bat[data_bat$BATSMEN== "MVijay",] 
+MVijay_bat <- col_add(MVijay_bat,95)
+plot_add(MVijay_bat)
+Predict(MVijay_bat)
+
+
+#PPChawla
+
+PPChawla_bat <- data_bat[data_bat$BATSMEN== "PPChawla",] 
+PPChawla_bat <- col_add(PPChawla_bat,95)
+plot_add(PPChawla_bat)
+Predict(PPChawla_bat)
+
+
+#MohammedShami
+
+MohammedShami_bat <- data_bat[data_bat$BATSMEN== "MohammedShami",] 
+MohammedShami_bat <- col_add(MohammedShami_bat,95)
+plot_add(MohammedShami_bat)
+Predict(MohammedShami_bat)
+
+
+#SNadeem
+
+SNadeem_bat <- data_bat[data_bat$BATSMEN== "SNadeem",] 
+SNadeem_bat <- col_add(SNadeem_bat,95)
+plot_add(SNadeem_bat)
+Predict(SNadeem_bat)
+
+
+#TABoult
+
+TABoult_bat <- data_bat[data_bat$BATSMEN== "TABoult",] 
+TABoult_bat <- col_add(TABoult_bat,95)
+plot_add(TABoult_bat)
+Predict(TABoult_bat)
+
+
+#CJAnderson
+
+CJAnderson_bat <- data_bat[data_bat$BATSMEN== "CJAnderson",] 
+CJAnderson_bat <- col_add(CJAnderson_bat,95)
+plot_add(CJAnderson_bat)
+Predict(CJAnderson_bat)
+
+
+#UTYadav
+
+UTYadav_bat <- data_bat[data_bat$BATSMEN== "UTYadav",] 
+UTYadav_bat <- col_add(UTYadav_bat,95)
+plot_add(UTYadav_bat)
+Predict(UTYadav_bat)
+
+
+#MohammedSiraj
+
+MohammedSiraj_bat <- data_bat[data_bat$BATSMEN== "MohammedSiraj",] 
+MohammedSiraj_bat <- col_add(MohammedSiraj_bat,95)
+plot_add(MohammedSiraj_bat)
+Predict(MohammedSiraj_bat)
+
+
+#HKlaasen
+
+HKlaasen_bat <- data_bat[data_bat$BATSMEN== "HKlaasen",] 
+HKlaasen_bat <- col_add(HKlaasen_bat,95)
+plot_add(HKlaasen_bat)
+Predict(HKlaasen_bat)
+
+
+#STRBinny
+
+STRBinny_bat <- data_bat[data_bat$BATSMEN== "STRBinny",] 
+STRBinny_bat <- col_add(STRBinny_bat,95)
+plot_add(STRBinny_bat)
+Predict(STRBinny_bat)
+
+
+#MVohra
+
+MVohra_bat <- data_bat[data_bat$BATSMEN== "MVohra",] 
+MVohra_bat <- col_add(MVohra_bat,95)
+plot_add(MVohra_bat)
+Predict(MVohra_bat)
+
+
+#FduPlessis
+
+FduPlessis_bat <- data_bat[data_bat$BATSMEN== "FduPlessis",] 
+FduPlessis_bat <- col_add(FduPlessis_bat,95)
+plot_add(FduPlessis_bat)
+Predict(FduPlessis_bat)
+
+
+#RKBhui
+
+RKBhui_bat <- data_bat[data_bat$BATSMEN== "RKBhui",] 
+RKBhui_bat <- col_add(RKBhui_bat,95)
+plot_add(RKBhui_bat)
+Predict(RKBhui_bat)
+
+
+#MJMcClenaghan
+
+MJMcClenaghan_bat <- data_bat[data_bat$BATSMEN== "MJMcClenaghan",] 
+MJMcClenaghan_bat <- col_add(MJMcClenaghan_bat,95)
+plot_add(MJMcClenaghan_bat)
+Predict(MJMcClenaghan_bat)
+
+
+#JCArcher
+
+JCArcher_bat <- data_bat[data_bat$BATSMEN== "JCArcher",] 
+JCArcher_bat <- col_add(JCArcher_bat,95)
+plot_add(JCArcher_bat)
+Predict(JCArcher_bat)
+
+
+#BBSran
+
+BBSran_bat <- data_bat[data_bat$BATSMEN== "BBSran",] 
+BBSran_bat <- col_add(BBSran_bat,95)
+plot_add(BBSran_bat)
+Predict(BBSran_bat)
+
+
+#PPShaw
+
+PPShaw_bat <- data_bat[data_bat$BATSMEN== "PPShaw",] 
+PPShaw_bat <- col_add(PPShaw_bat,95)
+plot_add(PPShaw_bat)
+Predict(PPShaw_bat)
+
+
+#LEPlunkett
+
+LEPlunkett_bat <- data_bat[data_bat$BATSMEN== "LEPlunkett",] 
+LEPlunkett_bat <- col_add(LEPlunkett_bat,95)
+plot_add(LEPlunkett_bat)
+Predict(LEPlunkett_bat)
+
+
+#AMishra
+
+AMishra_bat <- data_bat[data_bat$BATSMEN== "AMishra",] 
+AMishra_bat <- col_add(AMishra_bat,95)
+plot_add(AMishra_bat)
+Predict(AMishra_bat)
+
+
+#MohammadNabi
+
+MohammadNabi_bat <- data_bat[data_bat$BATSMEN== "MohammadNabi",] 
+MohammadNabi_bat <- col_add(MohammadNabi_bat,95)
+plot_add(MohammadNabi_bat)
+Predict(MohammadNabi_bat)
+
+
+#BasilThampi
+
+BasilThampi_bat <- data_bat[data_bat$BATSMEN== "BasilThampi",] 
+BasilThampi_bat <- col_add(BasilThampi_bat,95)
+plot_add(BasilThampi_bat)
+Predict(BasilThampi_bat)
+
+
+#MustafizurRahman
+
+MustafizurRahman_bat <- data_bat[data_bat$BATSMEN== "MustafizurRahman",] 
+MustafizurRahman_bat <- col_add(MustafizurRahman_bat,95)
+plot_add(MustafizurRahman_bat)
+Predict(MustafizurRahman_bat)
+
+
+#CdeGrandhomme
+
+CdeGrandhomme_bat <- data_bat[data_bat$BATSMEN== "CdeGrandhomme",] 
+CdeGrandhomme_bat <- col_add(CdeGrandhomme_bat,95)
+plot_add(CdeGrandhomme_bat)
+Predict(CdeGrandhomme_bat)
+
+
+#MKTiwary
+
+MKTiwary_bat <- data_bat[data_bat$BATSMEN== "MKTiwary",] 
+MKTiwary_bat <- col_add(MKTiwary_bat,95)
+plot_add(MKTiwary_bat)
+Predict(MKTiwary_bat)
+
+
+#ASRajpoot
+
+ASRajpoot_bat <- data_bat[data_bat$BATSMEN== "ASRajpoot",] 
+ASRajpoot_bat <- col_add(ASRajpoot_bat,95)
+plot_add(ASRajpoot_bat)
+Predict(ASRajpoot_bat)
+
+
+#KuldeepYadav
+
+KuldeepYadav_bat <- data_bat[data_bat$BATSMEN== "KuldeepYadav",] 
+KuldeepYadav_bat <- col_add(KuldeepYadav_bat,95)
+plot_add(KuldeepYadav_bat)
+Predict(KuldeepYadav_bat)
+
+
+#ADHales
+
+ADHales_bat <- data_bat[data_bat$BATSMEN== "ADHales",] 
+ADHales_bat <- col_add(ADHales_bat,95)
+plot_add(ADHales_bat)
+Predict(ADHales_bat)
+
+
+#MKLomror
+
+MKLomror_bat <- data_bat[data_bat$BATSMEN== "MKLomror",] 
+MKLomror_bat <- col_add(MKLomror_bat,95)
+plot_add(MKLomror_bat)
+Predict(MKLomror_bat)
+
+
+#TGSouthee
+
+TGSouthee_bat <- data_bat[data_bat$BATSMEN== "TGSouthee",] 
+TGSouthee_bat <- col_add(TGSouthee_bat,95)
+plot_add(TGSouthee_bat)
+Predict(TGSouthee_bat)
+
+
+#JPDuminy
+
+JPDuminy_bat <- data_bat[data_bat$BATSMEN== "JPDuminy",] 
+JPDuminy_bat <- col_add(JPDuminy_bat,95)
+plot_add(JPDuminy_bat)
+Predict(JPDuminy_bat)
+
+
+#PAPatel
+
+PAPatel_bat <- data_bat[data_bat$BATSMEN== "PAPatel",] 
+PAPatel_bat <- col_add(PAPatel_bat,95)
+plot_add(PAPatel_bat)
+Predict(PAPatel_bat)
+
+
+#MAshwin
+
+MAshwin_bat <- data_bat[data_bat$BATSMEN== "MAshwin",] 
+MAshwin_bat <- col_add(MAshwin_bat,95)
+plot_add(MAshwin_bat)
+Predict(MAshwin_bat)
+
+
+#DRShorey
+
+DRShorey_bat <- data_bat[data_bat$BATSMEN== "DRShorey",] 
+DRShorey_bat <- col_add(DRShorey_bat,95)
+plot_add(DRShorey_bat)
+Predict(DRShorey_bat)
+
+
+#NVOjha
+
+NVOjha_bat <- data_bat[data_bat$BATSMEN== "NVOjha",] 
+NVOjha_bat <- col_add(NVOjha_bat,95)
+plot_add(NVOjha_bat)
+Predict(NVOjha_bat)
+

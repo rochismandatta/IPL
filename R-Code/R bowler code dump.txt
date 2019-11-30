@@ -1,0 +1,702 @@
+#DL Chahar
+
+DL Chahar_bowl <- data_bowl[data_bowl$Bowling== "DL Chahar",] 
+DL Chahar_bowl <- col_add(DL Chahar_bowl,95)
+plot_add(DL Chahar_bowl)
+Predict(DL Chahar_bowl)
+
+
+#SR Watson
+
+SR Watson_bowl <- data_bowl[data_bowl$Bowling== "SR Watson",] 
+SR Watson_bowl <- col_add(SR Watson_bowl,95)
+plot_add(SR Watson_bowl)
+Predict(SR Watson_bowl)
+
+
+#Harbhajan Singh
+
+Harbhajan Singh_bowl <- data_bowl[data_bowl$Bowling== "Harbhajan Singh",] 
+Harbhajan Singh_bowl <- col_add(Harbhajan Singh_bowl,95)
+plot_add(Harbhajan Singh_bowl)
+Predict(Harbhajan Singh_bowl)
+
+
+#RA Jadeja
+
+RA Jadeja_bowl <- data_bowl[data_bowl$Bowling== "RA Jadeja",] 
+RA Jadeja_bowl <- col_add(RA Jadeja_bowl,95)
+plot_add(RA Jadeja_bowl)
+Predict(RA Jadeja_bowl)
+
+
+#MA Wood
+
+MA Wood_bowl <- data_bowl[data_bowl$Bowling== "MA Wood",] 
+MA Wood_bowl <- col_add(MA Wood_bowl,95)
+plot_add(MA Wood_bowl)
+Predict(MA Wood_bowl)
+
+
+#Imran Tahir
+
+Imran Tahir_bowl <- data_bowl[data_bowl$Bowling== "Imran Tahir",] 
+Imran Tahir_bowl <- col_add(Imran Tahir_bowl,95)
+plot_add(Imran Tahir_bowl)
+Predict(Imran Tahir_bowl)
+
+
+#DJ Bravo
+
+DJ Bravo_bowl <- data_bowl[data_bowl$Bowling== "DJ Bravo",] 
+DJ Bravo_bowl <- col_add(DJ Bravo_bowl,95)
+plot_add(DJ Bravo_bowl)
+Predict(DJ Bravo_bowl)
+
+
+#MJ McClenaghan
+
+MJ McClenaghan_bowl <- data_bowl[data_bowl$Bowling== "MJ McClenaghan",] 
+MJ McClenaghan_bowl <- col_add(MJ McClenaghan_bowl,95)
+plot_add(MJ McClenaghan_bowl)
+Predict(MJ McClenaghan_bowl)
+
+
+#Mustafizur Rahman
+
+Mustafizur Rahman_bowl <- data_bowl[data_bowl$Bowling== "Mustafizur Rahman",] 
+Mustafizur Rahman_bowl <- col_add(Mustafizur Rahman_bowl,95)
+plot_add(Mustafizur Rahman_bowl)
+Predict(Mustafizur Rahman_bowl)
+
+
+#JJ Bumrah
+
+JJ Bumrah_bowl <- data_bowl[data_bowl$Bowling== "JJ Bumrah",] 
+JJ Bumrah_bowl <- col_add(JJ Bumrah_bowl,95)
+plot_add(JJ Bumrah_bowl)
+Predict(JJ Bumrah_bowl)
+
+
+#HH Pandya
+
+HH Pandya_bowl <- data_bowl[data_bowl$Bowling== "HH Pandya",] 
+HH Pandya_bowl <- col_add(HH Pandya_bowl,95)
+plot_add(HH Pandya_bowl)
+Predict(HH Pandya_bowl)
+
+
+#M Markande
+
+M Markande_bowl <- data_bowl[data_bowl$Bowling== "M Markande",] 
+M Markande_bowl <- col_add(M Markande_bowl,95)
+plot_add(M Markande_bowl)
+Predict(M Markande_bowl)
+
+
+#R Ashwin
+
+R Ashwin_bowl <- data_bowl[data_bowl$Bowling== "R Ashwin",] 
+R Ashwin_bowl <- col_add(R Ashwin_bowl,95)
+plot_add(R Ashwin_bowl)
+Predict(R Ashwin_bowl)
+
+
+#MM Sharma
+
+MM Sharma_bowl <- data_bowl[data_bowl$Bowling== "MM Sharma",] 
+MM Sharma_bowl <- col_add(MM Sharma_bowl,95)
+plot_add(MM Sharma_bowl)
+Predict(MM Sharma_bowl)
+
+
+#Mujeeb Ur Rahman
+
+Mujeeb Ur Rahman_bowl <- data_bowl[data_bowl$Bowling== "Mujeeb Ur Rahman",] 
+Mujeeb Ur Rahman_bowl <- col_add(Mujeeb Ur Rahman_bowl,95)
+plot_add(Mujeeb Ur Rahman_bowl)
+Predict(Mujeeb Ur Rahman_bowl)
+
+
+#AR Patel
+
+AR Patel_bowl <- data_bowl[data_bowl$Bowling== "AR Patel",] 
+AR Patel_bowl <- col_add(AR Patel_bowl,95)
+plot_add(AR Patel_bowl)
+Predict(AR Patel_bowl)
+
+
+#AJ Tye
+
+AJ Tye_bowl <- data_bowl[data_bowl$Bowling== "AJ Tye",] 
+AJ Tye_bowl <- col_add(AJ Tye_bowl,95)
+plot_add(AJ Tye_bowl)
+Predict(AJ Tye_bowl)
+
+
+#MP Stoinis
+
+MP Stoinis_bowl <- data_bowl[data_bowl$Bowling== "MP Stoinis",] 
+MP Stoinis_bowl <- col_add(MP Stoinis_bowl,95)
+plot_add(MP Stoinis_bowl)
+Predict(MP Stoinis_bowl)
+
+
+#TA Boult
+
+TA Boult_bowl <- data_bowl[data_bowl$Bowling== "TA Boult",] 
+TA Boult_bowl <- col_add(TA Boult_bowl,95)
+plot_add(TA Boult_bowl)
+Predict(TA Boult_bowl)
+
+
+#Mohammed Shami
+
+Mohammed Shami_bowl <- data_bowl[data_bowl$Bowling== "Mohammed Shami",] 
+Mohammed Shami_bowl <- col_add(Mohammed Shami_bowl,95)
+plot_add(Mohammed Shami_bowl)
+Predict(Mohammed Shami_bowl)
+
+
+#A Mishra
+
+A Mishra_bowl <- data_bowl[data_bowl$Bowling== "A Mishra",] 
+A Mishra_bowl <- col_add(A Mishra_bowl,95)
+plot_add(A Mishra_bowl)
+Predict(A Mishra_bowl)
+
+
+#CH Morris
+
+CH Morris_bowl <- data_bowl[data_bowl$Bowling== "CH Morris",] 
+CH Morris_bowl <- col_add(CH Morris_bowl,95)
+plot_add(CH Morris_bowl)
+Predict(CH Morris_bowl)
+
+
+#DT Christian
+
+DT Christian_bowl <- data_bowl[data_bowl$Bowling== "DT Christian",] 
+DT Christian_bowl <- col_add(DT Christian_bowl,95)
+plot_add(DT Christian_bowl)
+Predict(DT Christian_bowl)
+
+
+#R Tewatia
+
+R Tewatia_bowl <- data_bowl[data_bowl$Bowling== "R Tewatia",] 
+R Tewatia_bowl <- col_add(R Tewatia_bowl,95)
+plot_add(R Tewatia_bowl)
+Predict(R Tewatia_bowl)
+
+
+#R Vinay Kumar
+
+R Vinay Kumar_bowl <- data_bowl[data_bowl$Bowling== "R Vinay Kumar",] 
+R Vinay Kumar_bowl <- col_add(R Vinay Kumar_bowl,95)
+plot_add(R Vinay Kumar_bowl)
+Predict(R Vinay Kumar_bowl)
+
+
+#PP Chawla
+
+PP Chawla_bowl <- data_bowl[data_bowl$Bowling== "PP Chawla",] 
+PP Chawla_bowl <- col_add(PP Chawla_bowl,95)
+plot_add(PP Chawla_bowl)
+Predict(PP Chawla_bowl)
+
+
+#Kuldeep Yadav
+
+Kuldeep Yadav_bowl <- data_bowl[data_bowl$Bowling== "Kuldeep Yadav",] 
+Kuldeep Yadav_bowl <- col_add(Kuldeep Yadav_bowl,95)
+plot_add(Kuldeep Yadav_bowl)
+Predict(Kuldeep Yadav_bowl)
+
+
+#SP Narine
+
+SP Narine_bowl <- data_bowl[data_bowl$Bowling== "SP Narine",] 
+SP Narine_bowl <- col_add(SP Narine_bowl,95)
+plot_add(SP Narine_bowl)
+Predict(SP Narine_bowl)
+
+
+#MG Johnson
+
+MG Johnson_bowl <- data_bowl[data_bowl$Bowling== "MG Johnson",] 
+MG Johnson_bowl <- col_add(MG Johnson_bowl,95)
+plot_add(MG Johnson_bowl)
+Predict(MG Johnson_bowl)
+
+
+#AD Russell
+
+AD Russell_bowl <- data_bowl[data_bowl$Bowling== "AD Russell",] 
+AD Russell_bowl <- col_add(AD Russell_bowl,95)
+plot_add(AD Russell_bowl)
+Predict(AD Russell_bowl)
+
+
+#N Rana
+
+N Rana_bowl <- data_bowl[data_bowl$Bowling== "N Rana",] 
+N Rana_bowl <- col_add(N Rana_bowl,95)
+plot_add(N Rana_bowl)
+Predict(N Rana_bowl)
+
+
+#YS Chahal
+
+YS Chahal_bowl <- data_bowl[data_bowl$Bowling== "YS Chahal",] 
+YS Chahal_bowl <- col_add(YS Chahal_bowl,95)
+plot_add(YS Chahal_bowl)
+Predict(YS Chahal_bowl)
+
+
+#CR Woakes
+
+CR Woakes_bowl <- data_bowl[data_bowl$Bowling== "CR Woakes",] 
+CR Woakes_bowl <- col_add(CR Woakes_bowl,95)
+plot_add(CR Woakes_bowl)
+Predict(CR Woakes_bowl)
+
+
+#Washington Sundar
+
+Washington Sundar_bowl <- data_bowl[data_bowl$Bowling== "Washington Sundar",] 
+Washington Sundar_bowl <- col_add(Washington Sundar_bowl,95)
+plot_add(Washington Sundar_bowl)
+Predict(Washington Sundar_bowl)
+
+
+#UT Yadav
+
+UT Yadav_bowl <- data_bowl[data_bowl$Bowling== "UT Yadav",] 
+UT Yadav_bowl <- col_add(UT Yadav_bowl,95)
+plot_add(UT Yadav_bowl)
+Predict(UT Yadav_bowl)
+
+
+#K Khejroliya
+
+K Khejroliya_bowl <- data_bowl[data_bowl$Bowling== "K Khejroliya",] 
+K Khejroliya_bowl <- col_add(K Khejroliya_bowl,95)
+plot_add(K Khejroliya_bowl)
+Predict(K Khejroliya_bowl)
+
+
+#B Kumar
+
+B Kumar_bowl <- data_bowl[data_bowl$Bowling== "B Kumar",] 
+B Kumar_bowl <- col_add(B Kumar_bowl,95)
+plot_add(B Kumar_bowl)
+Predict(B Kumar_bowl)
+
+
+#B Stanlake
+
+B Stanlake_bowl <- data_bowl[data_bowl$Bowling== "B Stanlake",] 
+B Stanlake_bowl <- col_add(B Stanlake_bowl,95)
+plot_add(B Stanlake_bowl)
+Predict(B Stanlake_bowl)
+
+
+#Shakib Al Hasan
+
+Shakib Al Hasan_bowl <- data_bowl[data_bowl$Bowling== "Shakib Al Hasan",] 
+Shakib Al Hasan_bowl <- col_add(Shakib Al Hasan_bowl,95)
+plot_add(Shakib Al Hasan_bowl)
+Predict(Shakib Al Hasan_bowl)
+
+
+#S Kaul
+
+S Kaul_bowl <- data_bowl[data_bowl$Bowling== "S Kaul",] 
+S Kaul_bowl <- col_add(S Kaul_bowl,95)
+plot_add(S Kaul_bowl)
+Predict(S Kaul_bowl)
+
+
+#Rashid Khan
+
+Rashid Khan_bowl <- data_bowl[data_bowl$Bowling== "Rashid Khan",] 
+Rashid Khan_bowl <- col_add(Rashid Khan_bowl,95)
+plot_add(Rashid Khan_bowl)
+Predict(Rashid Khan_bowl)
+
+
+#DS Kulkarni
+
+DS Kulkarni_bowl <- data_bowl[data_bowl$Bowling== "DS Kulkarni",] 
+DS Kulkarni_bowl <- col_add(DS Kulkarni_bowl,95)
+plot_add(DS Kulkarni_bowl)
+Predict(DS Kulkarni_bowl)
+
+
+#JD Unadkat
+
+JD Unadkat_bowl <- data_bowl[data_bowl$Bowling== "JD Unadkat",] 
+JD Unadkat_bowl <- col_add(JD Unadkat_bowl,95)
+plot_add(JD Unadkat_bowl)
+Predict(JD Unadkat_bowl)
+
+
+#K Gowtham
+
+K Gowtham_bowl <- data_bowl[data_bowl$Bowling== "K Gowtham",] 
+K Gowtham_bowl <- col_add(K Gowtham_bowl,95)
+plot_add(K Gowtham_bowl)
+Predict(K Gowtham_bowl)
+
+
+#B Laughlin
+
+B Laughlin_bowl <- data_bowl[data_bowl$Bowling== "B Laughlin",] 
+B Laughlin_bowl <- col_add(B Laughlin_bowl,95)
+plot_add(B Laughlin_bowl)
+Predict(B Laughlin_bowl)
+
+
+#S Gopal
+
+S Gopal_bowl <- data_bowl[data_bowl$Bowling== "S Gopal",] 
+S Gopal_bowl <- col_add(S Gopal_bowl,95)
+plot_add(S Gopal_bowl)
+Predict(S Gopal_bowl)
+
+
+#BA Stokes
+
+BA Stokes_bowl <- data_bowl[data_bowl$Bowling== "BA Stokes",] 
+BA Stokes_bowl <- col_add(BA Stokes_bowl,95)
+plot_add(BA Stokes_bowl)
+Predict(BA Stokes_bowl)
+
+
+#DJM Short
+
+DJM Short_bowl <- data_bowl[data_bowl$Bowling== "DJM Short",] 
+DJM Short_bowl <- col_add(DJM Short_bowl,95)
+plot_add(DJM Short_bowl)
+Predict(DJM Short_bowl)
+
+
+#SN Thakur
+
+SN Thakur_bowl <- data_bowl[data_bowl$Bowling== "SN Thakur",] 
+SN Thakur_bowl <- col_add(SN Thakur_bowl,95)
+plot_add(SN Thakur_bowl)
+Predict(SN Thakur_bowl)
+
+
+#TK Curran
+
+TK Curran_bowl <- data_bowl[data_bowl$Bowling== "TK Curran",] 
+TK Curran_bowl <- col_add(TK Curran_bowl,95)
+plot_add(TK Curran_bowl)
+Predict(TK Curran_bowl)
+
+
+#S Nadeem
+
+S Nadeem_bowl <- data_bowl[data_bowl$Bowling== "S Nadeem",] 
+S Nadeem_bowl <- col_add(S Nadeem_bowl,95)
+plot_add(S Nadeem_bowl)
+Predict(S Nadeem_bowl)
+
+
+#Sandeep Sharma
+
+Sandeep Sharma_bowl <- data_bowl[data_bowl$Bowling== "Sandeep Sharma",] 
+Sandeep Sharma_bowl <- col_add(Sandeep Sharma_bowl,95)
+plot_add(Sandeep Sharma_bowl)
+Predict(Sandeep Sharma_bowl)
+
+
+#PJ Sangwan
+
+PJ Sangwan_bowl <- data_bowl[data_bowl$Bowling== "PJ Sangwan",] 
+PJ Sangwan_bowl <- col_add(PJ Sangwan_bowl,95)
+plot_add(PJ Sangwan_bowl)
+Predict(PJ Sangwan_bowl)
+
+
+#BCJ Cutting
+
+BCJ Cutting_bowl <- data_bowl[data_bowl$Bowling== "BCJ Cutting",] 
+BCJ Cutting_bowl <- col_add(BCJ Cutting_bowl,95)
+plot_add(BCJ Cutting_bowl)
+Predict(BCJ Cutting_bowl)
+
+
+#KH Pandya
+
+KH Pandya_bowl <- data_bowl[data_bowl$Bowling== "KH Pandya",] 
+KH Pandya_bowl <- col_add(KH Pandya_bowl,95)
+plot_add(KH Pandya_bowl)
+Predict(KH Pandya_bowl)
+
+
+#GJ Maxwell
+
+GJ Maxwell_bowl <- data_bowl[data_bowl$Bowling== "GJ Maxwell",] 
+GJ Maxwell_bowl <- col_add(GJ Maxwell_bowl,95)
+plot_add(GJ Maxwell_bowl)
+Predict(GJ Maxwell_bowl)
+
+
+#A Dananjaya
+
+A Dananjaya_bowl <- data_bowl[data_bowl$Bowling== "A Dananjaya",] 
+A Dananjaya_bowl <- col_add(A Dananjaya_bowl,95)
+plot_add(A Dananjaya_bowl)
+Predict(A Dananjaya_bowl)
+
+
+#Shivam Mavi
+
+Shivam Mavi_bowl <- data_bowl[data_bowl$Bowling== "Shivam Mavi",] 
+Shivam Mavi_bowl <- col_add(Shivam Mavi_bowl,95)
+plot_add(Shivam Mavi_bowl)
+Predict(Shivam Mavi_bowl)
+
+
+#P Negi
+
+P Negi_bowl <- data_bowl[data_bowl$Bowling== "P Negi",] 
+P Negi_bowl <- col_add(P Negi_bowl,95)
+plot_add(P Negi_bowl)
+Predict(P Negi_bowl)
+
+
+#BB Sran
+
+BB Sran_bowl <- data_bowl[data_bowl$Bowling== "BB Sran",] 
+BB Sran_bowl <- col_add(BB Sran_bowl,95)
+plot_add(BB Sran_bowl)
+Predict(BB Sran_bowl)
+
+
+#Yuvraj Singh
+
+Yuvraj Singh_bowl <- data_bowl[data_bowl$Bowling== "Yuvraj Singh",] 
+Yuvraj Singh_bowl <- col_add(Yuvraj Singh_bowl,95)
+plot_add(Yuvraj Singh_bowl)
+Predict(Yuvraj Singh_bowl)
+
+
+#V Shankar
+
+V Shankar_bowl <- data_bowl[data_bowl$Bowling== "V Shankar",] 
+V Shankar_bowl <- col_add(V Shankar_bowl,95)
+plot_add(V Shankar_bowl)
+Predict(V Shankar_bowl)
+
+
+#Mohammed Siraj
+
+Mohammed Siraj_bowl <- data_bowl[data_bowl$Bowling== "Mohammed Siraj",] 
+Mohammed Siraj_bowl <- col_add(Mohammed Siraj_bowl,95)
+plot_add(Mohammed Siraj_bowl)
+Predict(Mohammed Siraj_bowl)
+
+
+#CJ Anderson
+
+CJ Anderson_bowl <- data_bowl[data_bowl$Bowling== "CJ Anderson",] 
+CJ Anderson_bowl <- col_add(CJ Anderson_bowl,95)
+plot_add(CJ Anderson_bowl)
+Predict(CJ Anderson_bowl)
+
+
+#CJ Jordan
+
+CJ Jordan_bowl <- data_bowl[data_bowl$Bowling== "CJ Jordan",] 
+CJ Jordan_bowl <- col_add(CJ Jordan_bowl,95)
+plot_add(CJ Jordan_bowl)
+Predict(CJ Jordan_bowl)
+
+
+#DJ Hooda
+
+DJ Hooda_bowl <- data_bowl[data_bowl$Bowling== "DJ Hooda",] 
+DJ Hooda_bowl <- col_add(DJ Hooda_bowl,95)
+plot_add(DJ Hooda_bowl)
+Predict(DJ Hooda_bowl)
+
+
+#STR Binny
+
+STR Binny_bowl <- data_bowl[data_bowl$Bowling== "STR Binny",] 
+STR Binny_bowl <- col_add(STR Binny_bowl,95)
+plot_add(STR Binny_bowl)
+Predict(STR Binny_bowl)
+
+
+#KV Sharma
+
+KV Sharma_bowl <- data_bowl[data_bowl$Bowling== "KV Sharma",] 
+KV Sharma_bowl <- col_add(KV Sharma_bowl,95)
+plot_add(KV Sharma_bowl)
+Predict(KV Sharma_bowl)
+
+
+#AS Rajpoot
+
+AS Rajpoot_bowl <- data_bowl[data_bowl$Bowling== "AS Rajpoot",] 
+AS Rajpoot_bowl <- col_add(AS Rajpoot_bowl,95)
+plot_add(AS Rajpoot_bowl)
+Predict(AS Rajpoot_bowl)
+
+
+#HV Patel
+
+HV Patel_bowl <- data_bowl[data_bowl$Bowling== "HV Patel",] 
+HV Patel_bowl <- col_add(HV Patel_bowl,95)
+plot_add(HV Patel_bowl)
+Predict(HV Patel_bowl)
+
+
+#JC Archer
+
+JC Archer_bowl <- data_bowl[data_bowl$Bowling== "JC Archer",] 
+JC Archer_bowl <- col_add(JC Archer_bowl,95)
+plot_add(JC Archer_bowl)
+Predict(JC Archer_bowl)
+
+
+#Avesh Khan
+
+Avesh Khan_bowl <- data_bowl[data_bowl$Bowling== "Avesh Khan",] 
+Avesh Khan_bowl <- col_add(Avesh Khan_bowl,95)
+plot_add(Avesh Khan_bowl)
+Predict(Avesh Khan_bowl)
+
+
+#LE Plunkett
+
+LE Plunkett_bowl <- data_bowl[data_bowl$Bowling== "LE Plunkett",] 
+LE Plunkett_bowl <- col_add(LE Plunkett_bowl,95)
+plot_add(LE Plunkett_bowl)
+Predict(LE Plunkett_bowl)
+
+
+#Mohammad Nabi
+
+Mohammad Nabi_bowl <- data_bowl[data_bowl$Bowling== "Mohammad Nabi",] 
+Mohammad Nabi_bowl <- col_add(Mohammad Nabi_bowl,95)
+plot_add(Mohammad Nabi_bowl)
+Predict(Mohammad Nabi_bowl)
+
+
+#Basil Thampi
+
+Basil Thampi_bowl <- data_bowl[data_bowl$Bowling== "Basil Thampi",] 
+Basil Thampi_bowl <- col_add(Basil Thampi_bowl,95)
+plot_add(Basil Thampi_bowl)
+Predict(Basil Thampi_bowl)
+
+
+#MK Tiwary
+
+MK Tiwary_bowl <- data_bowl[data_bowl$Bowling== "MK Tiwary",] 
+MK Tiwary_bowl <- col_add(MK Tiwary_bowl,95)
+plot_add(MK Tiwary_bowl)
+Predict(MK Tiwary_bowl)
+
+
+#IS Sodhi
+
+IS Sodhi_bowl <- data_bowl[data_bowl$Bowling== "IS Sodhi",] 
+IS Sodhi_bowl <- col_add(IS Sodhi_bowl,95)
+plot_add(IS Sodhi_bowl)
+Predict(IS Sodhi_bowl)
+
+
+#MK Lomror
+
+MK Lomror_bowl <- data_bowl[data_bowl$Bowling== "MK Lomror",] 
+MK Lomror_bowl <- col_add(MK Lomror_bowl,95)
+plot_add(MK Lomror_bowl)
+Predict(MK Lomror_bowl)
+
+
+#YK Pathan
+
+YK Pathan_bowl <- data_bowl[data_bowl$Bowling== "YK Pathan",] 
+YK Pathan_bowl <- col_add(YK Pathan_bowl,95)
+plot_add(YK Pathan_bowl)
+Predict(YK Pathan_bowl)
+
+
+#TG Southee
+
+TG Southee_bowl <- data_bowl[data_bowl$Bowling== "TG Southee",] 
+TG Southee_bowl <- col_add(TG Southee_bowl,95)
+plot_add(TG Southee_bowl)
+Predict(TG Southee_bowl)
+
+
+#M Ashwin
+
+M Ashwin_bowl <- data_bowl[data_bowl$Bowling== "M Ashwin",] 
+M Ashwin_bowl <- col_add(M Ashwin_bowl,95)
+plot_add(M Ashwin_bowl)
+Predict(M Ashwin_bowl)
+
+
+#L Ngidi
+
+L Ngidi_bowl <- data_bowl[data_bowl$Bowling== "L Ngidi",] 
+L Ngidi_bowl <- col_add(L Ngidi_bowl,95)
+plot_add(L Ngidi_bowl)
+Predict(L Ngidi_bowl)
+
+
+#KM Asif
+
+KM Asif_bowl <- data_bowl[data_bowl$Bowling== "KM Asif",] 
+KM Asif_bowl <- col_add(KM Asif_bowl,95)
+plot_add(KM Asif_bowl)
+Predict(KM Asif_bowl)
+
+
+#JP Duminy
+
+JP Duminy_bowl <- data_bowl[data_bowl$Bowling== "JP Duminy",] 
+JP Duminy_bowl <- col_add(JP Duminy_bowl,95)
+plot_add(JP Duminy_bowl)
+Predict(JP Duminy_bowl)
+
+
+#C de Grandhomme
+
+C de Grandhomme_bowl <- data_bowl[data_bowl$Bowling== "C de Grandhomme",] 
+C de Grandhomme_bowl <- col_add(C de Grandhomme_bowl,95)
+plot_add(C de Grandhomme_bowl)
+Predict(C de Grandhomme_bowl)
+
+
+#DJ Willey
+
+DJ Willey_bowl <- data_bowl[data_bowl$Bowling== "DJ Willey",] 
+DJ Willey_bowl <- col_add(DJ Willey_bowl,95)
+plot_add(DJ Willey_bowl)
+Predict(DJ Willey_bowl)
+
+
+#M Prasidh Krishna
+
+M Prasidh Krishna_bowl <- data_bowl[data_bowl$Bowling== "M Prasidh Krishna",] 
+M Prasidh Krishna_bowl <- col_add(M Prasidh Krishna_bowl,95)
+plot_add(M Prasidh Krishna_bowl)
+Predict(M Prasidh Krishna_bowl)
+
+
+#Anureet Singh
+
+Anureet Singh_bowl <- data_bowl[data_bowl$Bowling== "Anureet Singh",] 
+Anureet Singh_bowl <- col_add(Anureet Singh_bowl,95)
+plot_add(Anureet Singh_bowl)
+Predict(Anureet Singh_bowl)
